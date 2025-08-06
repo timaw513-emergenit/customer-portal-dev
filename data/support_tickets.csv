@@ -1,0 +1,6 @@
+Subject__c,Description__c,Priority__c,Category__c,Ticket_Status__c
+Login Issues,Cannot access my account after password reset,High,Technical,New
+Billing Question,Need clarification on last month's invoice,Medium,Billing,In Progress
+Feature Enhancement,Would like to see better reporting capabilities,Low,Feature Request,New
+System Performance,Application is running slowly,High,Technical,In Progress
+Account Setup,Need help setting up new user accounts,Medium,General,Resolved

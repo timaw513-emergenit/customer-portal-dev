@@ -1,0 +1,6 @@
+Name,Email__c,Phone__c,Company__c,Status__c
+John Doe,john.doe@example.com,555-0123,Acme Corp,Active
+Jane Smith,jane.smith@example.com,555-0124,Tech Solutions,Active
+Bob Johnson,bob.johnson@example.com,555-0125,Global Industries,Inactive
+Sarah Wilson,sarah.wilson@example.com,555-0126,StartupCo,Active
+Mike Davis,mike.davis@example.com,555-0127,Enterprise Ltd,Suspended
